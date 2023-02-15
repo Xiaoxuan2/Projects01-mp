@@ -1,0 +1,1 @@
+<block wx:if="{{error}}"><view class="data-v-0be17cc6">{{error.message}}</view></block><block wx:else><view class="data-v-0be17cc6"></view></block>

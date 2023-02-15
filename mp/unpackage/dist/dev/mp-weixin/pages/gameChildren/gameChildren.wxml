@@ -1,0 +1,1 @@
+<view>子页面<view class="_p">{{'携带的参数：'+options.name+''}}</view><u-button vue-id="29ec2a20-1" type="warning" size="medium" data-event-opts="{{[['^click',[['go']]]]}}" bind:click="__e" bind:__l="__l" vue-slots="{{['default']}}">点击跳转</u-button></view>

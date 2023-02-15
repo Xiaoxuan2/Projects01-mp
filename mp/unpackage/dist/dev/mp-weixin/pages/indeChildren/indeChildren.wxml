@@ -1,0 +1,1 @@
+<view>首页子集页面<u-button vue-id="8bffc4c0-1" type="warning" size="medium" data-event-opts="{{[['^click',[['go']]]]}}" bind:click="__e" bind:__l="__l" vue-slots="{{['default']}}">点击跳转</u-button></view>

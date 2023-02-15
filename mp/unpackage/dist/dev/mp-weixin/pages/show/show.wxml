@@ -1,0 +1,1 @@
+<view>演出页面<u-button vue-id="37482ac0-1" type="warning" bind:__l="__l" vue-slots="{{['default']}}">警告按钮</u-button><block wx:for="{{MsgData}}" wx:for-item="item" wx:for-index="__i0__"><view>{{''+item.catalog+''}}</view></block></view>

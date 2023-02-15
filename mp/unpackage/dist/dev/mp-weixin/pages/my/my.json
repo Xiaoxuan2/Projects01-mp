@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "我的",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "my-unicloud-db-default": "/pages/my/my-unicloud-db-default",
+    "unicloud-db": "/node-modules/@dcloudio/uni-cli-shared/components/unicloud-db",
+    "u-swipe-action": "/uview-ui/components/u-swipe-action/u-swipe-action",
+    "u-modal": "/uview-ui/components/u-modal/u-modal",
+    "u-field": "/uview-ui/components/u-field/u-field"
+  }
+}
